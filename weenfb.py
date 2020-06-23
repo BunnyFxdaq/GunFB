@@ -47,7 +47,7 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo =                 @@@
+logo ="""                   @@@
                              @@@
                               @@@                        H A P P Y
                               @@@
