@@ -101,10 +101,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "ACCESS DENIED"
-            os.system('xdg-open https://t.me/System_Breakerz')
+            os.system('xdg-open https://www.youtube.com/channel/UCZmLLPFYrtt0_xMUzPCCFCA')
     else:
         print "ACCESS DENIED"
-        os.system('xdg-open https://www.youtube.com/channel/UCtyUATNUxSiWOQQGyML_sqw')
+        os.system('xdg-open https://www.youtube.com/channel/UCZmLLPFYrtt0_xMUzPCCFCA')
 
 def login():
 	os.system('clear')
