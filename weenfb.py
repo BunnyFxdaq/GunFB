@@ -48,19 +48,19 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """---------------------------------•◈•
-•◈•-------A N O N Y M O U S K I N-------•◈•
+•◈•-------TESTING TOOL FOR PYTHON2-------•◈•
 •◈•-------<FACEBOOK-HACKING-TOOL/>------•◈•
-•◈•-----------:| LORD LUCIFER |:--------•◈•
-•◈•---------|•█ -ANONY-K I N- █•|-------•◈•
+•◈•-----------:| BY CORNFLAKES |:--------•◈•
+•◈•---------|•█ -LOGO TESTING- █•|-------•◈•
 •◈•-----------█-------4-------█---------•◈•
 •◈•-----------█-------1-------█---------•◈•
 •◈•-----------█-------9-------█---------•◈•
 \033[1;91m=======================================
-\033[1;96mAUTHOUR  \033[1;93m: \033[1;92mANONYOUS KIN
-\033[1;96mINSTAGRAM  \033[1;93m: \033[1;92m@ANONY_KIN
+\033[1;96mAUTHOUR  \033[1;93m: \033[1;92mCORNFLAKES
+\033[1;96mINSTAGRAM  \033[1;93m: \033[1;92m@CORNFLAKES.ZA
 \033[1;96mTELEGRAM \033[1;93m: \033[1;92m@SYSTEM_BREAKERZ
-\033[1;96mFACEBOOK  \033[1;93m: \033[1;92mANONY KIN
-\033[1;96mGITHUB \033[1;93m: \033[1;92mhttps://github.com/TechnicianAJ
+\033[1;96mFACEBOOK  \033[1;93m: \033[1;92mCORNFLAKESO3
+\033[1;96mGITHUB \033[1;93m: \033[1;92mhttps://github.com/CORNFLAKES
 \033[1;91m======================================="""
 
 def tik():
@@ -81,15 +81,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mANONYMOUS KIN
-\033[1;96mTelegram \033[1;93m: \033[1;92m@SYSTEM_BREAKERZ
-\033[1;96mFacebook  \033[1;93m: \033[1;92mANONY KIN
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/AnonymousKin
+\033[1;96mAuthor  \033[1;93m: \033[1;92mCORNFLAKES
+\033[1;96mTelegram \033[1;93m: \033[1;92m@NONE
+\033[1;96mFacebook  \033[1;93m: \033[1;92mCORNFLAKES03
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/CORNFLAKES
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
 AgentUsername = "ANONYMOUS"
-AgentPassword = "KIN419"
+AgentPassword = "CORNFLAKES"
 
 loop = 'true'
 while (loop == 'true'):
